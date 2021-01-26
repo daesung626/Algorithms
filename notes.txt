@@ -28,3 +28,30 @@ Patterns
 
 Recursion
 - A process that calls itself
+- Needs a base case to know when to return 
+- Ex)
+    function factorial(num) {
+        if(num === 1) return 1;
+        return num * factorial(num-1)
+    }
+
+Linear search 
+- O(n)
+
+Binary search
+- Only works on sorted arrays
+- O(log n)
+
+Bubble sort
+- Swapping to sort one by one
+- O(n^2)
+
+Selection sort
+- Finds min and swaps it with front
+- O(n^2)
+
+Insertion sort
+- Takes an element one at a time and inserts it in the correct spot
+- O(n^2)
+
+Merge sort
