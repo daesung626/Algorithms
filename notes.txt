@@ -55,3 +55,14 @@ Insertion sort
 - O(n^2)
 
 Merge sort
+- Breaks down into multiple arrays and merges them back
+- O(n log n)
+
+Quick sort
+- Finds the spot where number belongs and swaps
+- Average O(n log n), worst O(n^2)
+
+Radix sort
+- Doesn't make comparisons
+- Need to know the number at a certain position
+- O(nk)
