@@ -86,3 +86,15 @@ Binary search trees
 - Insertion/searching O(log n)
 
 Tree traversals
+
+Breadth first search
+- Traverses line by line
+
+Depth first search pre order
+- Visits left and then right
+
+Depth first search post order
+- Explore left/right then push
+
+Depth first search in order
+- 
