@@ -71,3 +71,18 @@ Radix sort
 
 Data structures
 
+Linked list
+- Insertion O(1), Rest is O(n)
+
+Stacks
+- LIFO
+- Insertion/removal O(1), Searching/access O(n)
+
+Queues
+- FIFO
+- Insertion/removal O(1), Searching/access O(n)
+
+Binary search trees
+- Insertion/searching O(log n)
+
+Tree traversals
